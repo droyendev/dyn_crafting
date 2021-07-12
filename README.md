@@ -11,4 +11,4 @@ O botão padrão para abrir o sistema de craft é <b>F3</b>
 
 # CASO QUEIRA ALTERAR
 <b>- Caso você queira puxar suas imagens por htdocs basta acessar o htdocs criar uma pasta com nome que queira e aonde é criado as box's dos itens do inventário basta colocar:
-"http://localhost/nomeDaPasta/${v.index}.png"</b>
+"http://localhost/nomeDaPasta/${v.index}.png"</b>.
