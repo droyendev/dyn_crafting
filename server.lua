@@ -23,7 +23,7 @@ function droyen.craftarItem(tabela,permissao,item,quantia)
         if permissao ~= nil then
             if vRP.hasPermission(user_id, permissao) then
                 for k,v in pairs(tabela) do
-                    vRP.removeInventoryItem(user_id,v[1],v[2],true,slot)
+                    vRP.tryGetInventoryItem(user_id,v[1],v[2])
                 end
                 vRP.giveInventoryItem(user_id,item,quantia,true,slot)
                 return true
@@ -32,7 +32,7 @@ function droyen.craftarItem(tabela,permissao,item,quantia)
             end
         else
             for k,v in pairs(tabela) do
-                vRP.removeInventoryItem(user_id,v[1],v[2],true,slot)
+                vRP.tryGetInventoryItem(user_id,v[1],v[2])
             end
             vRP.giveInventoryItem(user_id,item,quantia,true,slot)
             return true
