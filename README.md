@@ -5,4 +5,5 @@ Ao fazer download do script vá até a pasta imagens e troque todas pelas imagen
 
 # POSSIVEIS PROBLEMAS
 
-- Caso tenha algum problema com start do script certifique-se que o nome da pasta do script está como 'dyn_crafting' caso contrário altere-o
+- Caso tenha algum problema com start do script certifique-se que o nome da pasta do script está como 'dyn_crafting' caso contrário altere-o;
+- Imagens de itens vazias, caso isso aconteça certifique-se que colocou todas imagens do seu inventário na pasta 'imagens';
