@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/783801145344262149/864239452196307004/banner.png" width="1800vw" height="200vh">
+<img src="https://cdn.discordapp.com/attachments/852392509878435840/929893459295367229/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3839303238393136383730303239373237312f3839303730313238323431373937393438322f62616e6e65725f6769746875622e706e67.png" width="1800vw" height="200vh">
 
 # IMPORTANTE
 Ao fazer download do script vá até a pasta imagens e troque todas pelas imagens do inventário que você utiliza em sua base.
